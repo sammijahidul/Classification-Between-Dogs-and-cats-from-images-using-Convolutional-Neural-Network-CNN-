@@ -9,3 +9,5 @@ More details about the model:
 
 # Result Visualization:
 <img width="516" alt="Screenshot 2020-07-22 at 4 57 23 PM" src="https://user-images.githubusercontent.com/56561463/88169824-699a9b00-cc3e-11ea-976c-e5950cea4b3b.png">
+The accuracy of training set is 85% and 81% for test set
+Still possible to improve the accuracy 
